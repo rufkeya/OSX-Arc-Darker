@@ -27,13 +27,10 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 How To Install:
 
-1. Download (https://www.gnome-look.org/p/1167049)
+1. Download
 
-1a-. Extract to /usr/share/themes
+2. Extract to /usr/share/themes
 or ~/.themes (create it (in your home folder) if necessary);
-
-2. Alternatively click on the install button next to the theme
-(follow instructions by clicking the question mark next to the install button)
 
 3. Change via distribution specific tool.
 
@@ -90,7 +87,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ## Bugs
-bug page available soon.
+Bugs should be repoted [here](https://github.com/LinxGem33/OSX-Arc-Darker/issues) on the Github issues page.
 
 ## License
 OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` for details.
