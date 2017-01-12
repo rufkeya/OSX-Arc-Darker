@@ -32,7 +32,7 @@ How To Install:
 2. Extract to /usr/share/themes
 or ~/.themes (create it (in your home folder) if necessary);
 
-3. Change via distribution specific tool.
+3. Change via distribution specific tweak tool.
 
 
 **Note:** If your distribution doesn't ship separate development packages you just need GTK 3 instead of the `-dev` packages.
