@@ -87,7 +87,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ## Bugs
-Bugs should be repoted [here](https://github.com/LinxGem33/OSX-Arc-Darker/issues) on the Github issues page.
+Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-Darker/issues) on the Github issues page.
 
 ## License
 OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` for details.
