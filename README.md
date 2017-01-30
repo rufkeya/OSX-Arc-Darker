@@ -22,6 +22,30 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-darker/) currently maintained by @jaxmetalmax.
 
+### Supported Desktop Enviroments
+
+  * `Antergos` (Gnome)
+  * `Arch`
+  * `Budgie`
+  * `Cinnamon` (Updated version)
+  * `Elementary OS`
+  * `Fedora` (Gnome)
+  * `Manjaro`
+  * `Mate` (3.14 or later)
+  * `Unity` (7.4 or later)
+  * `Xfce`
+  
+### Supported GTK version
+  * `GTK 3.14` 
+  * `GTK 3.16`
+  * `GTK 3.18` 
+  * `GTK 3.20`
+  * `GTK 3.22`
+  
+### Supported OS version
+  * `14.04 LTS` 
+  * `16.04 LTS`
+  * `16.10`
 --
 
 ### Manual Installation
@@ -93,6 +117,6 @@ Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-Darker/issue
 ## License
 OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` for details.
 
-## Full Apps Preview
+## Apps Preview
 
 ![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
