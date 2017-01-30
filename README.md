@@ -20,6 +20,7 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 ### Packages
 
+Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-darker/) currently maintained by @jaxmetalmax.
 
 --
 
