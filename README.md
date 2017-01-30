@@ -46,6 +46,7 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
   * `14.04 LTS` 
   * `16.04 LTS`
   * `16.10`
+  
 --
 
 ### Manual Installation
