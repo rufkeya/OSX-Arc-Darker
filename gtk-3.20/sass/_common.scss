@@ -2402,8 +2402,12 @@ frame > border,
   padding: 0;
   border-radius: 0;
   border: 1px solid $borders_color;
+}
 
-  &.flat { border-style: none; }
+frame.flat > border,
+frame > border.flat,
+.frame.flat {
+  border-style: none;
 }
 
 scrolledwindow {
@@ -3027,8 +3031,9 @@ colorchooser .popover.osd { border-radius: 3px; }
 button.circular,
 button.circular-button {
   padding: 0;
-  min-width: 26px;
-  min-height: 26px;
+  min-width: 16px;
+  min-height: 24px;
+  padding: 2px 6px;
   border-radius: 50%;
   -gtk-outline-radius: 50%;
 

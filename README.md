@@ -125,3 +125,4 @@ OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` fo
 ## Apps Preview
 
 ![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
+
