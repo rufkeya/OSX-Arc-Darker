@@ -40,8 +40,8 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
   * `Xfce`
   
 ### Supported GTK version
-  * `GTK 3.14` 
-  * `GTK 3.16`
+  * `GTK 3.14` <- Support will end after next LTS release (2018)
+  * `GTK 3.16` <- Support will end after next LTS release (2018)
   * `GTK 3.18` 
   * `GTK 3.20`
   * `GTK 3.22`
