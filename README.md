@@ -24,7 +24,7 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-darker/) currently maintained by @jaxmetalmax.
 
---
+##
 
 ### Supported Desktop Enviroments
 
@@ -51,7 +51,7 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
   * `16.04 LTS`
   * `16.10`
   
---
+##
 
 ### Manual Installation
 
@@ -86,7 +86,17 @@ Run
 
     sudo rm -rf /usr/share/themes/{OSX-Arc-White,OSX-Arc-Darker,OSX-Arc-Shadow}
 
-## Extras
+## Work in progress!
+
+- [x] Add OSX-Arc-Plus beta theme
+- [x] Added GPL v3 Licences
+- [ ] Create deb & rpm packages
+- [ ] Add new theme elements to gnome-shell
+- [ ] Add support for Gnome 3.24
+- [ ] OS support for 17.04
+- [ ] Fix calander css styling
+
+## Extra's
 
 ### Arc Firefox theme
 A theme for Firefox is available at https://github.com/horst3180/arc-firefox-theme
