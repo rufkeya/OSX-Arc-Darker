@@ -86,13 +86,13 @@ Run
 
 ### Work in progress!
 
-| Completed Tasks  | In Progress Tasks |
-| ------------- | ------------- |
-| :white_check_mark: Add OSX-Arc-Plus beta theme | Create deb & rpm packages
-| :white_check_mark: Added GPL v3 Licences| Add new theme elements to gnome-shell
-|| Add support for Gnome 3.24
-|| OS support for 17.04
-|| Fix calander css styling
+| Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)| In Progress Tasks |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true)|
+| :------------- |--- |:------------- |---|
+| Add OSX-Arc-Plus beta theme |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | Create deb & rpm packages |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true)
+| Added GPL v3 Licences |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)  |Add new theme elements to gnome-shell |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true)
+|| |Add support for Gnome 3.24|![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true)
+|| |OS support for 17.04|![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true)
+|| |Fix calander css styling|![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true)
 
 ## 
 
