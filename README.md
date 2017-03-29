@@ -24,6 +24,8 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-darker/) currently maintained by @jaxmetalmax.
 
+**AUR Note**: If you're having trouble with the AUR packages please submit a theme request to the current package maintainer which is currently maintained by jaxmetalmax before creating an issue.
+
 ##
 
 
@@ -76,13 +78,19 @@ For the theme to function properly, install the following
 
 ### Uninstall
 
-Run
+If previous versions were installed or existed, remove them first.
+
+Run (As ROOT User)
 
     sudo rm -rf /usr/share/themes/{OSX-Arc-White,OSX-Arc-Darker,OSX-Arc-Shadow}
 
-## 
+Run (As Local User)    
+    
+    rm -rf ~/.local/share/themes/{OSX-Arc-White,OSX-Arc-Darker,OSX-Arc-Shadow}
+    
+    rm -rf ~/.themes/{OSX-Arc-White,OSX-Arc-Darker,OSX-Arc-Shadow}
 
-### 
+## 
 
 ### Work in progress!
 
