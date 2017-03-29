@@ -43,8 +43,6 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
   
 ##
 
-### 
-
 ### Manual Installation
 
 How To Install:
@@ -56,6 +54,11 @@ or ~/.themes (create it (in your home folder) if necessary);
 
 3. Change via distribution specific tweak tool.
 
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Window/GTK+ theme and `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Gnome Shell/Cinnamon theme.
+
+##
+
+### System Requirements
 
 **Note:** If your distribution doesn't ship separate development packages you just need GTK 3 instead of the `-dev` packages.
 
@@ -68,9 +71,6 @@ For the theme to function properly, install the following
   * `gtk-murrine-engine` (Fedora)
   * `gtk2-engine-murrine` (openSUSE)
   * `gtk-engines-murrine` (Gentoo)
-
-
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Window/GTK+ theme and `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Gnome Shell/Cinnamon theme.
 
 ## 
 
