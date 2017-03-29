@@ -136,12 +136,16 @@ Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-Darker/issue
 
 ## 
 
-### License
+### License & Terms
 
-OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` for details.
+OSX-Arc Collection is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/OSX-Arc-Darker/blob/master/COPYING) for details.
 
 ## 
 
-### Apps Preview
+### Contributions & Suggestions
+
+Any suggestions for features and contributions to the continuing code development can be made via the issue tracker or code contributions via a pull request.
+
+## 
 
 ![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
