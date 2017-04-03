@@ -148,7 +148,7 @@ Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-Darker/issue
 
 ## 
 
-### License & Terms
+### License & Terms ![](https://github.com/LinxGem33/IP-Finder/blob/master/screens/Copyleft-16.png?raw=true)
 
 OSX-Arc Collection is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/OSX-Arc-Darker/blob/master/COPYING) for details.
 
