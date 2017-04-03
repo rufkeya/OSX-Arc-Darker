@@ -24,6 +24,8 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 ### Packages
 
+Ubuntu & Debian based distributions can now install the [Debian package](https://github.com/LinxGem33/OSX-Arc-Darker/releases) for easier installation of the theme all deb files have checksums for file integrity.
+
 Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-darker/) currently maintained by @jaxmetalmax.
 
 **AUR Note**: If you're having trouble with the AUR packages please submit a theme request to the current package maintainer which is currently maintained by jaxmetalmax before creating an issue.
