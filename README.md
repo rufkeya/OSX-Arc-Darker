@@ -24,14 +24,33 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 ### Packages
 
-Ubuntu & Debian based distributions can now install the [Debian package](https://github.com/LinxGem33/OSX-Arc-Darker/releases) for easier installation of the theme all deb files have checksums for file integrity.
+Ubuntu & Debian based distributions can now install the newly created Debian package  for easy installation of the theme collection, also all deb files have checksums MD5,SHA1 and SHA256 for file integrity links are below.
 
-Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-darker/) currently maintained by @jaxmetalmax.
+> [osx-arc-collection_1.3.9_amd64.deb](https://github.com/LinxGem33/OSX-Arc-White/releases)
 
-**AUR Note**: If you're having trouble with the AUR packages please submit a theme request to the current package maintainer which is currently maintained by jaxmetalmax before creating an issue.
+> [osx-arc-collection_1.3.9_i386.deb](https://github.com/LinxGem33/OSX-Arc-White/releases)
 
 ##
 
+Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
+
+**AUR Note**: If you're having trouble with the AUR packages please submit a theme request to the current package maintainer which is currently maintained by jaxmetalmax before creating an issue.
+
+Arch Linux users can install the theme collection from the AUR repository by using yaourt or packer commands below.
+
+**Yaourt commands:**
+```
+$ yaourt -S osx-arc-white
+$ yaourt -S osx-arc-darker
+$ yaourt -S osx-arc-shadow
+```
+**Packer commands:**
+```
+$ packer -S osx-arc-white
+$ packer -S osx-arc-darker
+$ packer -S osx-arc-shadow
+```
+##
 
 | Supported Desktop Enviroments  | Supported GTK version | Supported OS version  |
 | ------------- | ------------- | ------------- |
