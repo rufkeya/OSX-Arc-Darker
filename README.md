@@ -26,7 +26,7 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 ### Packages
 
-Ubuntu & Debian based distributions can now install the newly created Debian package  for easy installation of the theme collection, also all deb files have checksums MD5,SHA1 and SHA256 for file integrity links are below.
+Ubuntu & Debian based distributions can now install the newly created Debian packages for easy installation of the theme collection, also all deb files have checksums MD5,SHA1 and SHA256 for file integrity links are below.
 
 > [osx-arc-collection_1.3.9_amd64.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
 
@@ -34,11 +34,11 @@ Ubuntu & Debian based distributions can now install the newly created Debian pac
 
 ##
 
-Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
+Arch Linux users can install from the [AUR](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
 
-**AUR Note**: If you're having trouble with the AUR packages please submit a theme request to the current package maintainer which is currently maintained by jaxmetalmax before creating an issue.
+**AUR Note**: If you're having trouble with the AUR packages please submit a request to the current package maintainer which is currently maintained by jaxmetalmax before creating an issue.
 
-Arch Linux users can install the theme collection from the AUR repository by using yaourt or packer commands below.
+Arch Linux users can install the theme collection from the AUR repository by using the yaourt or packer commands below.
 
 **Yaourt commands:**
 ```
