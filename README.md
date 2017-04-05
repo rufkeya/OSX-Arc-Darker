@@ -28,9 +28,9 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 Ubuntu & Debian based distributions can now install the newly created Debian package  for easy installation of the theme collection, also all deb files have checksums MD5,SHA1 and SHA256 for file integrity links are below.
 
-> [osx-arc-collection_1.3.9_amd64.deb](https://github.com/LinxGem33/OSX-Arc-White/releases)
+> [osx-arc-collection_1.3.9_amd64.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
 
-> [osx-arc-collection_1.3.9_i386.deb](https://github.com/LinxGem33/OSX-Arc-White/releases)
+> [osx-arc-collection_1.3.9_i386.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
 
 ##
 
