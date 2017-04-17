@@ -10,6 +10,10 @@
 
 ![A screenshot of the OSX-Arc-White theme](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)
 
+##### OSX-Arc-Plus
+
+![A screenshot of the OSX-Arc-Plus theme](https://github.com/LinxGem33/Arc-Menu/blob/master/screenshots/osxp.png?raw=true)
+
 ##### OSX-Arc-Darker
 
 ![A screenshot of the OSX-Arc-Darker theme](https://cn.pling.com/img/b/c/1/9/2663fe7724cdbe48087bf8ffb61ef33d9270.png)
@@ -28,9 +32,9 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 Ubuntu & Debian based distributions can now install the newly created Debian packages for easy installation of the theme collection, also all deb files have checksums MD5,SHA1 and SHA256 for file integrity links are below.
 
-> [osx-arc-collection_1.3.9_amd64.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
+> [osx-arc-collection_1.4.1_amd64.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
 
-> [osx-arc-collection_1.3.9_i386.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
+> [osx-arc-collection_1.4.1_i386.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
 
 ##
 
