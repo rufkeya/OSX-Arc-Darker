@@ -186,3 +186,4 @@ Any suggestions for features and contributions to the continuing code developmen
 ## 
 
 ![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
+<sub>Screenshot Details: Icons: [Arc-OSX Icons](https://github.com/LinxGem33/Arc-OSX-Icons) | System Icons based on [Paper Project Icons](https://github.com/snwh/paper-icon-theme) | [Wallpaper](https://github.com/LinxGem33/OSX-Arc-White/blob/master/extra/mountains.png?raw=true) | Font: Liberation Sans</sub>
