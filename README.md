@@ -46,15 +46,23 @@ Arch Linux users can install the theme collection from the AUR repository by usi
 
 **Yaourt commands:**
 ```
-$ yaourt -S osx-arc-white
-$ yaourt -S osx-arc-darker
-$ yaourt -S osx-arc-shadow
+yaourt -S osx-arc-plus
+
+yaourt -S osx-arc-white
+
+yaourt -S osx-arc-darker
+
+yaourt -S osx-arc-shadow
 ```
 **Packer commands:**
 ```
-$ packer -S osx-arc-white
-$ packer -S osx-arc-darker
-$ packer -S osx-arc-shadow
+packer -S osx-arc-plus
+
+packer -S osx-arc-white
+
+packer -S osx-arc-darker
+
+packer -S osx-arc-shadow
 ```
 ##
 
